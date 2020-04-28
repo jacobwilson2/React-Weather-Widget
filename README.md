@@ -1,9 +1,9 @@
-#My React Weather Widget
+<b>My React Weather Widget</b?
 
 My app uses the openweathermap.org API to pull weather data\
 The weather can be toggled by changing the metric state\
 
-Technologies Used:\
+<b>Technologies Used:</b>\
 AJAX: to get data from the server-side\
 Material Design: Modern & thoughtful UX\
 Accessibility: Leveraging semantic elements & ARIA\
